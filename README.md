@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Md.Hossain Sarker
 #### A passionate full stack developer (MERN)
-![A passionate full stack developer (MERN)](https://scontent.fcgp27-1.fna.fbcdn.net/v/t39.30808-6/241439178_2916044335279281_5217116864526762693_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHVA8S8y-WpYSQcqwP0IlZVwt7oPckJnkHC3ug9yQmeQZL33Pbb7A7bOo877Anz1TUFw8xWLDB6ENUJ-lE5ZCuj&_nc_ohc=sj0DHIHa3tQAX8Q3nOt&_nc_ht=scontent.fcgp27-1.fna&oh=00_AT-VvvkgPpWaDWA2iDaQL_ImYetFDjEhgwRPROxJ--UXkw&oe=62DBE28A)
+![A passionate full stack developer (MERN)](https://funny-cajeta-36cab9.netlify.app/static/media/My-photo.868128e1e61b926bb0f6.png)
 
 I'm a web developer with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest! if you're looking for a developer to add to your team, I'd love to hear from you!
 
@@ -15,11 +15,11 @@ Skills: REACT / JS / HTML / CSS
 - 📫 How to reach me: mossahid.hossain@gmail.com 
 
 
- 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mossahid123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-hossain-sarker-539170241/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mossahid.hossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://funny-cajeta-36cab9.netlify.app/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mossahid123)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mossahid123&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mossahid123&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mossahid123)  
 
