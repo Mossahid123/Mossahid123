@@ -1,5 +1,5 @@
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>]
 ### Hi there 👋, my name is Md.Hossain Sarker
 #### A passionate full stack developer (MERN)
 ![A passionate full stack developer (MERN)](https://funny-cajeta-36cab9.netlify.app/static/media/My-photo.868128e1e61b926bb0f6.png)
